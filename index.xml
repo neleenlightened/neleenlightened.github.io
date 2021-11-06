@@ -6,7 +6,16 @@
     <description>Recent content on Nele&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 24 Oct 2021 12:31:47 +0800</lastBuildDate><atom:link href="https://neleenlightened.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 12:31:47 +0800</lastBuildDate><atom:link href="https://neleenlightened.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>身與心_共心在一起</title>
+      <link>https://neleenlightened.github.io/blog/mind/</link>
+      <pubDate>Sat, 06 Nov 2021 12:31:47 +0800</pubDate>
+      
+      <guid>https://neleenlightened.github.io/blog/mind/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    
     <item>
       <title>咖啡，是一種水果</title>
       <link>https://neleenlightened.github.io/blog/coffee-pure/</link>
@@ -20,24 +29,6 @@
 咖啡的氣味，讓人覺得放鬆
 如果有幸，遇上一間好的咖啡店，會帶給人幸福的一天
 夏隆咖啡對我就是這樣的存在。</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://neleenlightened.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://neleenlightened.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://neleenlightened.github.io/blog/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://neleenlightened.github.io/blog/test2/</guid>
-      <description>Guten Tag print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) </description>
     </item>
     
   </channel>
